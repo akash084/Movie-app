@@ -38,3 +38,6 @@ npm run dev
 
 ## Disclaimer
 This is not a product for commercial purpose. This is my personal project, made for just fun and educational purpose. All the images, music, artists, album and its details used in this application is from TMDB API and all the rights goes to TMDB API. This is the project made by following one of the JavaScript Mastery YouTube tutorial (https://youtu.be/8vIDZO_w7lY?si=y-8lDDiiTyO7ecFt).
+
+## Website Hosted Link
+https://movie-app-git-master-akashs-projects-7dcb7934.vercel.app/
