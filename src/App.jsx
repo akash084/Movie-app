@@ -1,5 +1,5 @@
 import heroImg from "/hero-img.png";
-import Search from "./components/search";
+import Search from "./components/Search";
 import { useEffect, useState } from "react";
 import SpinnerComponent from "./components/SpinnerComponent";
 import MovieCard from "./components/MovieCard";
