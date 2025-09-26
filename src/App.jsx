@@ -8,10 +8,6 @@ import { getTrendingMovies, updateSearchCount } from "./appwrite";
 
 const API_BASE_URL = "https://api.themoviedb.org/3";
 
-// VITE_APPWRITE_PROJECT_ID = "68d3cc9b003aa2e3e991"
-// VITE_APPWRITE_PROJECT_NAME = "Movie App"
-// VITE_APPWRITE_ENDPOINT = "https://syd.cloud.appwrite.io/v1"
-
 const API_KEY = import.meta.env.VITE_TMDB_API_KEY;
 
 const API_OPTIONS = {
